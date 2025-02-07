@@ -1,3 +1,1 @@
-# 
-
-This is the  repository. Update this README with relevant project details.
+This is the ProjectA repository. Update this README with relevant project details.
